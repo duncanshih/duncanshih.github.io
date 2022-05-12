@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Yurong Musk</title>
-        <link>https://github.com/duncanshih/duncanshih.github.io.git/posts/</link>
+        <link>https://duncanshih.github.io/posts/</link>
         <description>All Posts | Yurong Musk</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 19:19:00 &#43;0800</lastBuildDate><atom:link href="https://github.com/duncanshih/duncanshih.github.io.git/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 19:19:00 &#43;0800</lastBuildDate><atom:link href="https://duncanshih.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My First Post</title>
-    <link>https://github.com/duncanshih/duncanshih.github.io.git/posts/my-first-post/</link>
+    <link>https://duncanshih.github.io/posts/my-first-post/</link>
     <pubDate>Wed, 11 May 2022 19:19:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://github.com/duncanshih/duncanshih.github.io.git/posts/my-first-post/</guid>
+    <guid>https://duncanshih.github.io/posts/my-first-post/</guid>
     <description><![CDATA[Test ~Test~]]></description>
 </item>
 </channel>
