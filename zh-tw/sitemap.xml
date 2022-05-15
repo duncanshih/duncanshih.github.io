@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://duncanshih.github.io/zh-tw/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://duncanshih.github.io/zh-tw/categories/</loc><lastmod>2022-05-15T23:52:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://duncanshih.github.io/categories/"
@@ -15,7 +15,7 @@
                     hreflang="zh-tw"
                     href="https://duncanshih.github.io/zh-tw/categories/"
                     /></url><url>
-            <loc>https://duncanshih.github.io/zh-tw/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://duncanshih.github.io/zh-tw/</loc><lastmod>2022-05-15T23:52:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://duncanshih.github.io/"
@@ -28,7 +28,9 @@
                     hreflang="zh-tw"
                     href="https://duncanshih.github.io/zh-tw/"
                     /></url><url>
-            <loc>https://duncanshih.github.io/zh-tw/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://duncanshih.github.io/zh-tw/categories/investment/</loc><lastmod>2022-05-15T23:52:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://duncanshih.github.io/zh-tw/posts/</loc><lastmod>2022-05-15T23:52:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://duncanshih.github.io/zh-tw/tags/</loc><lastmod>2022-05-15T23:52:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://duncanshih.github.io/tags/"
@@ -40,4 +42,6 @@
                     rel="alternate"
                     hreflang="zh-tw"
                     href="https://duncanshih.github.io/zh-tw/tags/"
-                    /></url></urlset>
+                    /></url><url>
+            <loc>https://duncanshih.github.io/zh-tw/tags/warren-buffett/</loc><lastmod>2022-05-15T23:52:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://duncanshih.github.io/zh-tw/buffettwithko/</loc><lastmod>2022-05-15T23:52:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
