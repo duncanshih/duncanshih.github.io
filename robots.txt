@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://duncanshih.github.io/sitemap.xml
+Sitemap: https://duncanshih.github.io/zh-tw/sitemap.xml
